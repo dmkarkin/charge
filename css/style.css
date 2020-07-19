@@ -1280,7 +1280,7 @@ body.ie .ibg img {
 	}
 }
 .footer__icon {
-	background: url("../../img/footer/logo.png") 0 0/contain no-repeat;
+	background: url("../img/footer/logo.png") 0 0/contain no-repeat;
 	display: inline-block;
 	width: 135px;
 	height: 43.2px;
@@ -1388,10 +1388,10 @@ body.ie .ibg img {
 	}
 }
 .block-header--01 .block-header__label:before {
-	background: url("../../img/block-03/icon-00.png") center/contain no-repeat;
+	background: url("../img/block-03/icon-00.png") center/contain no-repeat;
 }
 .block-header--02 .block-header__label:before {
-	background: url("../../img/block-07/icon-01.png") center/contain no-repeat;
+	background: url("../img/block-07/icon-01.png") center/contain no-repeat;
 }
 
 .block-01 {
@@ -1406,7 +1406,7 @@ body.ie .ibg img {
 }
 .block-01:before {
 	content: "";
-	background: url("../../img/block-01/bg.jpg") 0 0 no-repeat;
+	background: url("../img/block-01/bg.jpg") 0 0 no-repeat;
 	background-size: cover;
 	opacity: 0.5;
 	position: absolute;
@@ -1480,7 +1480,7 @@ body.ie .ibg img {
 }
 .block-01-body__slogan:before {
 	content: "";
-	background-image: url("../../img/block-01/Search_Icon.png");
+	background-image: url("../img/block-01/Search_Icon.png");
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -1838,10 +1838,10 @@ body.ie .ibg img {
 	left: 0;
 }
 .block-02-body__slogan--01 span:before {
-	background-image: url("../../img/block-02/icon-01.png");
+	background-image: url("../img/block-02/icon-01.png");
 }
 .block-02-body__slogan--02 span:before {
-	background-image: url("../../img/block-02/icon-02.png");
+	background-image: url("../img/block-02/icon-02.png");
 }
 .block-02-body__text {
 	margin: 10px 0px 50px 0px;
@@ -2029,13 +2029,13 @@ body.ie .ibg img {
 	}
 }
 .block-03-col__header--01:before {
-	background: url("../../img/block-03/icon-01.png") 0 0/contain no-repeat;
+	background: url("../img/block-03/icon-01.png") 0 0/contain no-repeat;
 }
 .block-03-col__header--02:before {
-	background: url("../../img/block-03/icon-02.png") 0 0/contain no-repeat;
+	background: url("../img/block-03/icon-02.png") 0 0/contain no-repeat;
 }
 .block-03-col__header--03:before {
-	background: url("../../img/block-03/icon-03.png") 0 0/contain no-repeat;
+	background: url("../img/block-03/icon-03.png") 0 0/contain no-repeat;
 }
 .block-03-col__body {
 	margin: 10px 0px 0px 0px;
@@ -2205,7 +2205,7 @@ body.ie .ibg img {
 .block-04__button-next:before {
 	position: absolute;
 	content: "";
-	background: url("../../img/icons/p-right.svg") 0 0 no-repeat;
+	background: url("../img/icons/p-right.svg") 0 0 no-repeat;
 	right: 0px;
 	top: 35%;
 	width: 20px;
@@ -2228,7 +2228,7 @@ body.ie .ibg img {
 .block-04__button-prev:before {
 	content: "";
 	position: absolute;
-	background: url("../../img/icons/p-left.svg") 0 0 no-repeat;
+	background: url("../img/icons/p-left.svg") 0 0 no-repeat;
 	left: 3px;
 	top: 35%;
 	width: 20px;
@@ -2259,7 +2259,7 @@ body.ie .ibg img {
 }
 .block-05:before {
 	content: "";
-	background: url("../../img/block-05/bg.jpg") 0 0 no-repeat;
+	background: url("../img/block-05/bg.jpg") 0 0 no-repeat;
 	background-size: cover;
 	position: absolute;
 	width: 100%;
@@ -2337,7 +2337,7 @@ body.ie .ibg img {
 	left: 0;
 	width: 72px;
 	height: 72px;
-	background: url("../../img/block-05/icon-01.png") 0 0 no-repeat;
+	background: url("../img/block-05/icon-01.png") 0 0 no-repeat;
 	background-size: 80%;
 }
 @media (min-width: 479.98px) {
@@ -2390,7 +2390,7 @@ body.ie .ibg img {
 	height: 56px;
 	top: -10px;
 	left: 0;
-	background: url("../../img/block-05/icon-check.png") 0 0 no-repeat;
+	background: url("../img/block-05/icon-check.png") 0 0 no-repeat;
 	background-size: 80%;
 }
 @media (min-width: 479.98px) {
@@ -2817,7 +2817,7 @@ body.ie .ibg img {
 	display: block;
 	width: 87.6px;
 	height: 15px;
-	background: url(../../img/block-07/rating/rating-stars.png) no-repeat left/contain;
+	background: url(../img/block-07/rating/rating-stars.png) no-repeat left/contain;
 }
 .top-user__rating span {
 	position: relative;
@@ -2911,7 +2911,7 @@ body.ie .ibg img {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: url("../../img/block-07/rating/icon-value.webp") 0 0/contain no-repeat;
+	background: url("../img/block-07/rating/icon-value.webp") 0 0/contain no-repeat;
 }
 @media (min-width: 350px) {
 	.top-user__counter-label {
@@ -2960,7 +2960,7 @@ body.ie .ibg img {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: url("../../img/block-07/rating/icon-value.png") 0 0/contain no-repeat;
+	background: url("../img/block-07/rating/icon-value.png") 0 0/contain no-repeat;
 }
 @media (min-width: 767.98px) {
 	.top-user__counter-value {
@@ -2999,7 +2999,7 @@ body.ie .ibg img {
 }
 .block-09:before {
 	content: "";
-	background: url("../../img/block-09/bg.jpg") 0 0 no-repeat;
+	background: url("../img/block-09/bg.jpg") 0 0 no-repeat;
 	background-size: cover;
 	position: absolute;
 	width: 100%;
@@ -3119,10 +3119,10 @@ body.ie .ibg img {
 	line-height: 22px;
 }
 .block-09__social-link--01 {
-	background: url("../../img/block-09/icon-01.png") 0 0/contain no-repeat;
+	background: url("../img/block-09/icon-01.png") 0 0/contain no-repeat;
 }
 .block-09__social-link--02 {
-	background: url("../../img/block-09/icon-02.png") 0 0/contain no-repeat;
+	background: url("../img/block-09/icon-02.png") 0 0/contain no-repeat;
 }
 @media (min-width: 500px) {
 	.block-09__social-link {
