@@ -2205,21 +2205,19 @@ body.ie .ibg img {
 .block-04__button-next:before {
 	position: absolute;
 	content: "";
-	background: url("../img/icons/p-right.svg") 0 0 no-repeat;
+	background: url("../img/icons/p-right.svg") 0 0/contain no-repeat;
 	right: 0px;
-	top: 35%;
-	width: 20px;
-	height: 25px;
-	-webkit-transform: scale(60%) translate(10%, -50%);
-	    -ms-transform: scale(60%) translate(10%, -50%);
-	        transform: scale(60%) translate(10%, -50%);
+	top: 50%;
+	width: 12px;
+	height: 15px;
+	-webkit-transform: translate(-10%, -50%);
+	    -ms-transform: translate(-10%, -50%);
+	        transform: translate(-10%, -50%);
 }
 @media (min-width: 767.98px) {
 	.block-04__button-next:before {
-		-webkit-transform: scale(90%) translate(-10%, -50%);
-		    -ms-transform: scale(90%) translate(-10%, -50%);
-		        transform: scale(90%) translate(-10%, -50%);
-		top: 50%;
+		width: 20px;
+		height: 25px;
 	}
 }
 .block-04__button-prev {
@@ -2228,22 +2226,20 @@ body.ie .ibg img {
 .block-04__button-prev:before {
 	content: "";
 	position: absolute;
-	background: url("../img/icons/p-left.svg") 0 0 no-repeat;
-	left: 3px;
-	top: 35%;
-	width: 20px;
-	height: 25px;
-	-webkit-transform: scale(60%) translate(10%, -50%);
-	    -ms-transform: scale(60%) translate(10%, -50%);
-	        transform: scale(60%) translate(10%, -50%);
+	background: url("../img/icons/p-left.svg") 0 0/contain no-repeat;
+	left: 6px;
+	top: 50%;
+	width: 12px;
+	height: 15px;
+	-webkit-transform: translate(-10%, -50%);
+	    -ms-transform: translate(-10%, -50%);
+	        transform: translate(-10%, -50%);
 }
 @media (min-width: 767.98px) {
 	.block-04__button-prev:before {
-		-webkit-transform: scale(90%) translate(10%, -50%);
-		    -ms-transform: scale(90%) translate(10%, -50%);
-		        transform: scale(90%) translate(10%, -50%);
-		left: 6px;
-		top: 50%;
+		left: 9px;
+		width: 20px;
+		height: 25px;
 	}
 }
 
