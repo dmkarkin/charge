@@ -2907,7 +2907,7 @@ body.ie .ibg img {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: url("../img/block-07/rating/icon-value.webp") 0 0/contain no-repeat;
+	background: url("../img/block-07/rating/icon-value.png") 0 0/contain no-repeat;
 }
 @media (min-width: 350px) {
 	.top-user__counter-label {
